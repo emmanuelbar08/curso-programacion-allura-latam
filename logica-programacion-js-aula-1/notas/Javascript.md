@@ -1,0 +1,1 @@
+El propósito principal de JavaScript es agregar **interacción** a las páginas, haciendo posible que los usuarios interactúen con las aplicaciones web y evitando que una página sea meramente estática al mostrar información.
