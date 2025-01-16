@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+
+}
+
+.texto-destacado{
+    color: #ffffff;
+    
+}
+
+.urgente{
+    color:red;
+    margin: 10px;
+    border:2px solid white;
+    padding: 5px;
+}
+
+
+.titulo{
+    color: #007BFF;
+
+}
+
+.resaltado-parrafo{
+    color: blanchedalmond;
+} 
